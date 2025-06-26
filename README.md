@@ -44,11 +44,15 @@ Album covers and MP3s are for educational/demo purposes only
 
 ## 📸 Screenshots
 
-### 🎵 Homepage with Playlists
-![Homepage](screenshots/home.png)
+## 📸 Screenshots
 
-### 🎶 Player with Cover Image
-![Player View](screenshots/player1.png)
+### 🏠 Homepage
+![Home](screenshots/Home.png)
 
-### 📂 Your Library UI
-![Library](screenshots/player2.png)
+### 🎧 Playlist Views
+![Playlist 1](screenshots/Playlist1.png)
+![Playlist 2](screenshots/Playlist2.png)
+![Playlist 3](screenshots/Playlist3.png)
+
+### 📱 Responsive Layout
+![Responsive](screenshots/Responsive.png)
