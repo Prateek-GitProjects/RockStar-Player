@@ -3,15 +3,14 @@ Rockstar Player is a sleek, offline-first music streaming web app designed to de
 
 Unlike other music apps that rely on external services or APIs, Rockstar Player runs entirely in the browser using locally stored songs and images. Whether you're on desktop or mobile, the layout adapts to give you a consistent and modern user experience.
 
-2. Open in your browser
+🌐 Open in your browser
 You can directly open index.html:
-
 start index.html
-Or use a local server (recommended):
 
-# For Python 3
+Or use a local server (recommended):
+For Python 3
 python -m http.server
-# Go to http://localhost:8000
+Go to http://localhost:8000
 
 👨‍🎤 Artists & Playlists
 Each artist folder (e.g., diljit/, arijit/) contains:
