@@ -5,6 +5,7 @@ Rockstar Player is a sleek, offline-first music streaming web app designed to de
 Unlike other music apps that rely on external services or APIs, Rockstar Player runs entirely in the browser using locally stored songs and images. Whether you're on desktop or mobile, the layout adapts to give you a consistent and modern user experience.
 
 🌐 Open in your browser - 
+
 You can directly open index.html:
 start index.html
 
@@ -14,6 +15,7 @@ python -m http.server
 Go to http://localhost:8000
 
 👨‍🎤 Artists & Playlists - 
+
 Each artist folder (e.g., diljit/, arijit/) contains:
 
 Album cover image
@@ -23,6 +25,7 @@ Album cover image
 Dynamically generated UI via JS
 
 📦 To-Do (Coming Soon) - 
+
 ✅ Add mobile gesture controls
 
 ⏳ Create search and filter functionality
@@ -32,6 +35,7 @@ Dynamically generated UI via JS
 🔀 Add shuffle and repeat modes
 
 🙏 Credits - 
+
 Designed and developed by Prateek
 
 Inspired by Spotify, Gaana, Wynk
