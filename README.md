@@ -41,3 +41,14 @@ Designed and developed by Prateek
 Inspired by Spotify, Gaana, Wynk
 
 Album covers and MP3s are for educational/demo purposes only
+
+## 📸 Screenshots
+
+### 🎵 Homepage with Playlists
+![Homepage](screenshots/home.png)
+
+### 🎶 Player with Cover Image
+![Player View](screenshots/player1.png)
+
+### 📂 Your Library UI
+![Library](screenshots/player2.png)
