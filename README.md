@@ -47,12 +47,12 @@ Album covers and MP3s are for educational/demo purposes only
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Home](screenshots/Home.png)
+![Home](Screenshots/Home.png)
 
 ### 🎧 Playlist Views
-![Playlist 1](screenshots/Playlist1.png)
-![Playlist 2](screenshots/Playlist2.png)
-![Playlist 3](screenshots/Playlist3.png)
+![Playlist 1](Screenshots/Playlist1.png)
+![Playlist 2](Screenshots/Playlist2.png)
+![Playlist 3](Screenshots/Playlist3.png)
 
 ### 📱 Responsive Layout
-![Responsive](screenshots/Responsive.png)
+![Responsive](Screenshots/Responsive.png)
