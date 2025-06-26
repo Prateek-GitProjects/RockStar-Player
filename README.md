@@ -44,8 +44,6 @@ Album covers and MP3s are for educational/demo purposes only
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Homepage
 
 ![Home](Screenshots/Home.png)
